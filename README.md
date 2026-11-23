@@ -1,72 +1,32 @@
-<h1><p align="center">Hello, I'm Abdullah Shaaban! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+# Abdullah Shaaban
 
-<p align="center" ><img 
- src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
+Full-Stack Software Engineer based in Egypt. 7+ years building web and mobile products with Angular, TypeScript, Node.js, Express.js and .NET Core.
 
-<p align="center">I'm a Software Engineer .</p><br/>
+<table>
+<tr>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" width="24" height="24" alt=""><br>Angular</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="24" height="24" alt=""><br>TypeScript</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="24" height="24" alt=""><br>Node.js</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="24" height="24" alt=""><br>Express</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="24" height="24" alt=""><br>.NET Core</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="24" height="24" alt=""><br>React</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ionic/ionic-original.svg" width="24" height="24" alt=""><br>Ionic</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" width="24" height="24" alt=""><br>Firebase</td>
+</tr>
+</table>
 
-<summary><h2> What I currently do</h2></summary>
+## Now
 
-- 🔭 I'm working as a Software Engineer at @Schneider Electric .
-- 🌱 I’m currently learning C#, .Net framework and .NET Core.
-- 💬 Ask me about Angular , React , Ionic , Express.js , MongoDB , Nest.js , Flutter(Basic) , C# and .Net core , Any tech-related stuff.
-- 📫 How to reach me **abdalahshaban129@gmail.com**.
+Software Engineer at INTRO Technology, continuing work on Schneider Electric projects.
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
+## Selected work
 
-<p align = "center">
- 
-[<img width="100" height="25" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/abdullah-shaaban-22322a15b)
-[<img width="100" height="25" src="https://img.shields.io/badge/twitter-%231877F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/abdalahzamalek) 
-</p>
+- **[DriveLog](https://github.com/abdalahshaban07/DriveLog)** - local-first car log PWA (Angular, TypeScript, Ionic), Arabic UI. [Live app](https://abdalahshaban07.github.io/DriveLog/)
+- **[Video Chat](https://github.com/abdalahshaban07/video-call-mern-stack)** - browser video calls with React, Node, Socket.IO and WebRTC. [Live app](https://video-call-5150c.web.app/)
+- **[Chess Board](https://github.com/abdalahshaban07/chess-board)** - browser chess for two players (Angular, Firebase). [Live app](https://chess-board-5380b.web.app/)
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
-                width="28" /> My Tools</h2></summary>
+## Contact
 
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/capacitor.svg" alt="Capacitor" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ionic.svg" alt="Ionic" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="40" /></a>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /> 
-</div>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="18" height="18" alt=""> [abdalahshaban129@gmail.com](mailto:abdalahshaban129@gmail.com)
 
-<br>
-
-## Github Stats
-
-<table style="width: 100% !important"><tr><td valign="top" >
-
-<img src="https://github-readme-stats.vercel.app/api?username=abdalahshaban07&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" >
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalahshaban07&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=abdalahshaban07&&style=flat-square)
-
-Credits: [Abdullah Shaaban](https://github.com/abdalahshaban07)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="18" height="18" alt=""> [linkedin.com/in/abdullah-shaaban-22322a15b](https://www.linkedin.com/in/abdullah-shaaban-22322a15b/)
