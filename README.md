@@ -2,18 +2,16 @@
 
 Full-Stack Software Engineer based in Egypt. 7+ years building web and mobile products with Angular, TypeScript, Node.js, Express.js and .NET Core.
 
-<table>
-<tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/angular/angular-original.svg" width="24" height="24" alt=""><br>Angular</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/typescript/typescript-original.svg" width="24" height="24" alt=""><br>TypeScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/nodejs/nodejs-original.svg" width="24" height="24" alt=""><br>Node.js</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/express/express-original.svg" width="24" height="24" alt=""><br>Express</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/dotnetcore/dotnetcore-original.svg" width="24" height="24" alt=""><br>.NET Core</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/react/react-original.svg" width="24" height="24" alt=""><br>React</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/ionic/ionic-original.svg" width="24" height="24" alt=""><br>Ionic</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/firebase/firebase-original.svg" width="24" height="24" alt=""><br>Firebase</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&amp;logo=angular&amp;logoColor=white" alt="Angular" height="28">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" height="28">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" height="28">
+<img src="https://img.shields.io/badge/Express-444444?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" height="28">
+<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&amp;logo=dotnet&amp;logoColor=white" alt=".NET Core" height="28">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" height="28">
+<img src="https://img.shields.io/badge/Ionic-2355CC?style=flat-square&amp;logo=ionic&amp;logoColor=white" alt="Ionic" height="28">
+<img src="https://img.shields.io/badge/Firebase-6C4300?style=flat-square&amp;logo=firebase&amp;logoColor=white" alt="Firebase" height="28">
+</p>
 
 ## Now
 
@@ -27,6 +25,9 @@ Software Engineer at INTRO Technology, continuing work on Schneider Electric pro
 
 ## Contact
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="18" height="18" alt=""> [abdalahshaban129@gmail.com](mailto:abdalahshaban129@gmail.com)
+<a href="mailto:abdalahshaban129@gmail.com"><img src="https://img.shields.io/badge/Email-B3261E?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" height="28"></a>
+<a href="https://www.linkedin.com/in/abdullah-shaaban-22322a15b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" height="28"></a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linkedin/linkedin-original.svg" width="18" height="18" alt=""> [linkedin.com/in/abdullah-shaaban-22322a15b](https://www.linkedin.com/in/abdullah-shaaban-22322a15b/)
+[abdalahshaban129@gmail.com](mailto:abdalahshaban129@gmail.com)
+
+[linkedin.com/in/abdullah-shaaban-22322a15b](https://www.linkedin.com/in/abdullah-shaaban-22322a15b/)
