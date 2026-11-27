@@ -20,8 +20,8 @@ Software Engineer at INTRO Technology, continuing work on Schneider Electric pro
 ## Selected work
 
 - **[DriveLog](https://github.com/abdalahshaban07/DriveLog)** - local-first car log PWA (Angular, TypeScript, Ionic), Arabic UI. [Live app](https://abdalahshaban07.github.io/DriveLog/)
-- **[Video Chat](https://github.com/abdalahshaban07/video-call-mern-stack)** - browser video calls with React, Node, Socket.IO and WebRTC. [Live app](https://video-call-5150c.web.app/)
-- **[Chess Board](https://github.com/abdalahshaban07/chess-board)** - browser chess for two players (Angular, Firebase). [Live app](https://chess-board-5380b.web.app/)
+- **[Liqaa](https://github.com/abdalahshaban07/Liqaa)** - live two-person browser calling (React, Firebase, Cloudflare Worker, LiveKit). [Live app](https://liqaa-calls.web.app)
+- **[Naqla](https://github.com/abdalahshaban07/Naqla)** - browser chess for two players with a cosmic 3D board (Three.js, Firebase). [Live app](https://naqla-lunar.web.app)
 
 ## Contact
 
